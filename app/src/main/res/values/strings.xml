@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProblemStatement</string>
+    <string name="Hermanos">Hermanos Restaurant</string>
+    <string name="bill">Order Bill</string>
+    <string name="amount">Amount</string>
+    <string name="maxperson">Num of Pax</string>
+    <string name="SVSDisabled">SVS</string>
+    <string name="SVSEnabled">No SVS</string>
+    <string name="GSTDisabled">GST</string>
+    <string name="GSTEnabled">No GST</string>
+    <string name="discount">Discount(%)</string>
+    <string name="Cash">Cash</string>
+    <string name="PayNow">PayNow</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+</resources>
